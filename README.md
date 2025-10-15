@@ -1,0 +1,2 @@
+# Primeiro Projeto Front-End e Back-End usando React e Node
+Ainda não tenho certeza qual produto irei programar e qual o fim da aplicação, mas estarei fazendo a configuração e aprendendo a mexer na integraão de node e React enquanto me decido.
